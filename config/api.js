@@ -1,0 +1,1 @@
+export const API = "https://zs-dev.firstfloor.site/api/home/fetch-home-related-property";
